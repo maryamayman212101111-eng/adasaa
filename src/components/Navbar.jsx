@@ -34,7 +34,7 @@ function Navbar() {
 
          
           <div className="d-flex align-items-center order-3">
-            <img src="/img/logo-GdqARQRt.png" alt="Logo" className="me-2" style={{ height: "50px" }} />
+            <img src="/src/assets/img/logo-GdqARQRt.png" alt="Logo" className="me-2" style={{ height: "50px" }} />
             <span className="text-white fw-bold">عدسه</span>
           </div>
 

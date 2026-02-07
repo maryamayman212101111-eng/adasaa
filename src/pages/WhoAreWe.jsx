@@ -73,7 +73,7 @@ function WhoAreWe()
     <div className="row g-4 ">
         <div className="col-4 w-25 p-5 border-grey rounded-3 text-center grey h-15">
             <div className="">
-<img src="./img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
+<img src="/src/assets/img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
 </div>
 <h2 className="text-white">مدحت أحمد</h2>
 <p className="orange-text">مصور محترف</p>
@@ -92,7 +92,7 @@ function WhoAreWe()
         </div>
         <div className="col-4 w-25 p-5 border-grey rounded-3 text-center grey h-15">
             <div className="">
-<img src="./img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
+<img src="/src/assets/img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
 </div>
 <h2 className="text-white">فواد أحمد</h2>
 <p className="orange-text">مصور محترف</p>
@@ -111,7 +111,7 @@ function WhoAreWe()
         </div>
         <div className="col-4 w-25 p-5 border-grey rounded-3 text-center grey h-15">
             <div className="">
-<img src="./img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
+<img src="/src/assets/img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
 </div>
 <h2 className="text-white">كريم أحمد</h2>
 <p className="orange-text">مصور محترف</p>
@@ -130,7 +130,7 @@ function WhoAreWe()
         </div>
         <div className="col-4 w-25 p-5 border-grey rounded-3 text-center grey h-15">
             <div className="">
-<img src="./img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
+<img src="/src/assets/img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
 </div>
 <h2 className="text-white">محمد علي </h2>
 <p className="orange-text">مصور محترف</p>
@@ -149,7 +149,7 @@ function WhoAreWe()
         </div>
         <div className="col-4 w-25 p-5 border-grey rounded-3 text-center grey h-15">
             <div className="">
-<img src="./img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
+<img src="/src/assets/img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
 </div>
 <h2 className="text-white">عمرو محمد </h2>
 <p className="orange-text">مصور محترف</p>
@@ -168,7 +168,7 @@ function WhoAreWe()
         </div>
         <div className="col-4 w-25 p-5 border-grey rounded-3 text-center grey h-15">
             <div className="">
-<img src="./img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
+<img src="/src/assets/img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
 </div>
 <h2 className="text-white">سالم أحمد</h2>
 <p className="orange-text">مصور محترف</p>
@@ -187,7 +187,7 @@ function WhoAreWe()
         </div>
         <div className="col-4 w-25 p-5 border-grey rounded-3 text-center grey h-15">
             <div className="">
-<img src="./img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
+<img src="/src/assets/img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
 </div>
 <h2 className="text-white">احمد أحمد</h2>
 <p className="orange-text">مصور محترف</p>
@@ -206,7 +206,7 @@ function WhoAreWe()
         </div>
         <div className="col-4 w-25 p-5 border-grey rounded-3 text-center grey h-15">
             <div className="">
-<img src="./img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
+<img src="/src/assets/img/photo-1472099645785-5658abf4ff4e.jfif" className="rounded-circle fs-4" alt="" />
 </div>
 <h2 className="text-white">سليم أحمد</h2>
 <p className="orange-text">مصور محترف</p>

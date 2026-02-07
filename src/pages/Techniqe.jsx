@@ -6,7 +6,7 @@ function Techniqe()
                 <div className="row">          
                      <div className="col-4 border-grey  rounded-2 text-end mt-5">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> تقنيات</div>
-                        <img src="/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  25 يناير 2026  </p>
                         <h4 className="text-white fw-bold">اسرار التقنيه</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
@@ -27,7 +27,7 @@ function Techniqe()
                     </div>
                      <div className="col-4 border-grey  rounded-2 text-end mt-5">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> تقنيات</div>
-                        <img src="/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  25 يناير 2026  </p>
                         <h4 className="text-white fw-bold">اسرار التقنيه</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
@@ -48,7 +48,7 @@ function Techniqe()
                     </div>
                      <div className="col-4 border-grey  rounded-2 text-end mt-5">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> تقنيات</div>
-                        <img src="/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  25 يناير 2026  </p>
                         <h4 className="text-white fw-bold">اسرار التقنيه</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
@@ -69,7 +69,7 @@ function Techniqe()
                     </div>
                      <div className="col-4 border-grey  rounded-2 text-end mt-5">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> تقنيات</div>
-                        <img src="/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  25 يناير 2026  </p>
                         <h4 className="text-white fw-bold">اسرار التقنيه</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
@@ -90,7 +90,7 @@ function Techniqe()
                     </div>
                      <div className="col-4 border-grey  rounded-2 text-end mt-5">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> تقنيات</div>
-                        <img src="/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  25 يناير 2026  </p>
                         <h4 className="text-white fw-bold">اسرار التقنيه</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
@@ -111,7 +111,7 @@ function Techniqe()
                     </div>
                      <div className="col-4 border-grey  rounded-2 text-end mt-5">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> تقنيات</div>
-                        <img src="/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  25 يناير 2026  </p>
                         <h4 className="text-white fw-bold">اسرار التقنيه</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>

@@ -7,12 +7,12 @@ import Home from './pages/Home';
 import Techniqe from './pages/Techniqe';
 import Blogs from './pages/Blogs';
 import WhoAreWe from './pages/WhoAreWe';
-import AppLayout from './components/app-layout.jsx/appLayout';
 import AllArticles from './pages/AllArticles';
 import NaturalView from './pages/NaturalView';
 import Tools from './pages/Tools';
 import Portrait from './pages/portrait';
 import Light from './pages/light';
+import AppLayout from './components/AppLayout';
 
 
 

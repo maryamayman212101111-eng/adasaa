@@ -75,7 +75,7 @@ function Home()
         <p className="text-secondary-emphasis">تعلم كيفيه التقاط صور مذهله خلال الساعه الذهبيه مع نصائح احترافيه حول الاضاءه و التكوين</p>
         </div>
 <div className="w-50">
-    <img src="./img/photo-1500835556837-99ac94a94552.jfif" className="w-100" alt="" />
+    <img src="/src/assets/img/photo-1500835556837-99ac94a94552.jfif" className="w-100" alt="" />
 </div> 
     </div>
 
@@ -92,7 +92,7 @@ function Home()
         <p className="text-secondary-emphasis">تعلم كيفيه التقاط صور مذهله خلال الساعه الذهبيه مع نصائح احترافيه حول الاضاءه و التكوين</p>
         </div>
 <div className="w-50">
-    <img src="./img/photo-1500835556837-99ac94a94552.jfif" className="w-100" alt="" />
+    <img src="/src/assets/img/photo-1500835556837-99ac94a94552.jfif" className="w-100" alt="" />
 </div> 
     </div>
 
@@ -109,7 +109,7 @@ function Home()
         <p className="text-secondary-emphasis">تعلم كيفيه التقاط صور مذهله خلال الساعه الذهبيه مع نصائح احترافيه حول الاضاءه و التكوين</p>
         </div>
 <div className="w-50">
-    <img src="./img/photo-1500835556837-99ac94a94552.jfif" className="w-100" alt="" />
+    <img src="/src/assets/img/photo-1500835556837-99ac94a94552.jfif" className="w-100" alt="" />
 </div> 
     </div>
 
@@ -166,7 +166,7 @@ function Home()
     <div className="row p-4 dark">
        <div className="col-4 border-grey rounded-2 text-end mt-5 p-2">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> معدات</div>
-                        <img src="./img/photo-1500835556837-99ac94a94552.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/photo-1500835556837-99ac94a94552.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  3 يناير 2026  </p>
                         <h4 className="text-white fw-bold">تصوير الهاتف المحمول:كيف تلتقط صوره احترافيه بهاتفك</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
@@ -187,7 +187,7 @@ function Home()
                     </div>
        <div className="col-4 border-grey rounded-2  text-end mt-5 p-2">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> معدات</div>
-                        <img src="./img/photo-1500835556837-99ac94a94552.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/photo-1500835556837-99ac94a94552.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  3 يناير 2026  </p>
                         <h4 className="text-white fw-bold">تصوير الهاتف المحمول:كيف تلتقط صوره احترافيه بهاتفك</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
@@ -208,7 +208,7 @@ function Home()
                     </div>
        <div className="col-4 border-grey  rounded-2  text-end mt-5 p-2">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> معدات</div>
-                        <img src="./img/photo-1500835556837-99ac94a94552.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/photo-1500835556837-99ac94a94552.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  3 يناير 2026  </p>
                         <h4 className="text-white fw-bold">تصوير الهاتف المحمول:كيف تلتقط صوره احترافيه بهاتفك</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>

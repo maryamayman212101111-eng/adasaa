@@ -51,7 +51,7 @@ function Blogs()
                                
                      <div className="col-4 border-grey  rounded-2 text-end mt-5">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card">مناظر طبيعيه</div>
-                        <img src="./img/photo-1500835556837-99ac94a94552.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/photo-1500835556837-99ac94a94552.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  25 يناير 2026  </p>
                         <h4 className="text-white fw-bold">اسرار المناظر الطبيعيه</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
@@ -72,7 +72,7 @@ function Blogs()
                     </div>
                     <div className="col-4 border-grey  rounded-2 text-end mt-5">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> الاضاءه</div>
-                        <img src="/img/light.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/light.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  25 يناير 2026  </p>
                         <h4 className="text-white fw-bold">اسرار الاضاءه</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
@@ -93,7 +93,7 @@ function Blogs()
                     </div>
                      <div className="col-4 border-grey  rounded-2 text-end mt-5">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> بورتريه</div>
-                        <img src="/img/port.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/port.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  25 يناير 2026  </p>
                         <h4 className="text-white fw-bold">اسرار تصوير بورتريه</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
@@ -114,7 +114,7 @@ function Blogs()
                     </div>
                     <div className="col-4 border-grey  rounded-2 text-end mt-5">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> تقنيات</div>
-                        <img src="/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/tech.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  25 يناير 2026  </p>
                         <h4 className="text-white fw-bold">اسرار التقنيه</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
@@ -135,7 +135,7 @@ function Blogs()
                     </div>
                      <div className="col-4 border-grey  rounded-2 text-end mt-5">
                         <div className="text-white bg-black bg-opacity-25 rounded-5 m-auto p-2 w-35 text-center card"> معدات</div>
-                        <img src="/img/tools.jfif" className="w-100 mt-5 img-2" alt=""/>
+                        <img src="/src/assets/img/tools.jfif" className="w-100 mt-5 img-2" alt=""/>
                         <p className="text-dark-emphasis mt-2">  دقايق للقراءه  25 يناير 2026  </p>
                         <h4 className="text-white fw-bold">اسرار  المعدات</h4>
                         <p className="text-secondary border-bottom p-3">اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.</p>
